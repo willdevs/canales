@@ -1,68 +1,68 @@
 # CANALES
-#EXTINF:-1 tvg-id="" tvg-name="TVPERU" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675976398932/1c3cb9d0e0c4_640_360.png" group-title="#",TVPERU
+#EXTINF:-1 tvg-id="" tvg-name="TVPERU" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675976398932/1c3cb9d0e0c4_640_360.png" group-title="PERÚ",TVPERU
 go:BITEL07
 
-#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675975326951/18caf2f51ca8_640_360.png" group-title="#",PANAMERICANA
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675975326951/18caf2f51ca8_640_360.png" group-title="PERÚ",PANAMERICANA
 go:BITEL0
 
-#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="#",WILLAX
+#EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="PERÚ",WILLAX
 go:BITEL01
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497771524/6ddb4622ebc8_640_360.png" group-title="#",ATV
+#EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497771524/6ddb4622ebc8_640_360.png" group-title="PERÚ",ATV
 go:BITEL02
 
-#EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/02/1675972220844/cf0924f238d8_640_360.png" group-title="#",LATINA
+#EXTINF:-1 tvg-id="" tvg-name="LATINA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/02/1675972220844/cf0924f238d8_640_360.png" group-title="PERÚ",LATINA
 go:BITEL03
 
-#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/07/15/05/1689374862287/26712907fe39_640_360.png" group-title="#",AMERICA TV
+#EXTINF:-1 tvg-id="" tvg-name="AMERICA TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/07/15/05/1689374862287/26712907fe39_640_360.png" group-title="PERÚ",AMERICA TV
 go:BITEL04
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723498023494/88f72215f063_640_360.png" group-title="#",GLOBAL TV
+#EXTINF:-1 tvg-id="" tvg-name="GLOBAL TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723498023494/88f72215f063_640_360.png" group-title="PERÚ",GLOBAL TV
 go:BITEL11
 
-#EXTINF:-1 tvg-id="" tvg-name="ATV +" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497854204/8ff5794d3f88_640_360.png" group-title="#",ATV +
+#EXTINF:-1 tvg-id="" tvg-name="ATV +" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497854204/8ff5794d3f88_640_360.png" group-title="PERÚ",ATV +
 go:BITEL10
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIME ONEGAI" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/23/1723566026507/5ebdbdb3f8fa_640_360.png" group-title="#",ANIME ONEGAI
+#EXTINF:-1 tvg-id="" tvg-name="ANIME ONEGAI" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/23/1723566026507/5ebdbdb3f8fa_640_360.png" group-title="INFANTIL",ANIME ONEGAI
 go:BITEL09
 
-#EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/23/04/167952120589/8c00689813ad_640_360.png" group-title="#",EXITOSA TV
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/23/04/167952120589/8c00689813ad_640_360.png" group-title="PERÚ",EXITOSA TV
 go:BITEL08
 
-#EXTINF:-1 tvg-id="" tvg-name="MILENIAL TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/04/25/05/1713997920924/debc49d2d9d3_640_360.png" group-title="#",MILENIAL TV
+#EXTINF:-1 tvg-id="" tvg-name="MILENIAL TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/04/25/05/1713997920924/debc49d2d9d3_640_360.png" group-title="PERÚ",MILENIAL TV
 go:BITEL23
 
-#EXTINF:-1 tvg-id="" tvg-name="RCR" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/25/03/1716583821856/57bd933ed445_640_360.jpg" group-title="#",RCR
+#EXTINF:-1 tvg-id="" tvg-name="RCR" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/25/03/1716583821856/57bd933ed445_640_360.jpg" group-title="PERÚ",RCR
 go:BITEL22
 
-#EXTINF:-1 tvg-id="" tvg-name="TV NORTE" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_640_360.png" group-title="#",TV NORTE
+#EXTINF:-1 tvg-id="" tvg-name="TV NORTE" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/14/02/172357795260/02dd5475270f_640_360.png" group-title="PERÚ",TV NORTE
 go:BITEL21
 
-#EXTINF:-1 tvg-id="" tvg-name="LIKE TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/24/23/1716567780481/f4d8de9e25b1_640_360.jpg" group-title="#",LIKE TV
+#EXTINF:-1 tvg-id="" tvg-name="LIKE TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/05/24/23/1716567780481/f4d8de9e25b1_640_360.jpg" group-title="PERÚ",LIKE TV
 go:BITEL20
 
-#EXTINF:-1 tvg-id="" tvg-name="BETHEL TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/11/16/06/1700089956125/9d3c9805ee7c_640_360.jpeg" group-title="#",BETHEL TV
+#EXTINF:-1 tvg-id="" tvg-name="BETHEL TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/11/16/06/1700089956125/9d3c9805ee7c_640_360.jpeg" group-title="PERÚ",BETHEL TV
 go:BITEL19
 
-#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/03/06/1719961310377/da37730bae58_640_360.png" group-title="#",CTV
+#EXTINF:-1 tvg-id="" tvg-name="CTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/03/06/1719961310377/da37730bae58_640_360.png" group-title="PERÚ",CTV
 go:BITEL18
 
-#EXTINF:-1 tvg-id="" tvg-name="CONECTA2 TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/06/06/22/1686064768681/9a1978fc185d_640_360.png" group-title="#",CONECTA2 TV
+#EXTINF:-1 tvg-id="" tvg-name="CONECTA2 TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/06/06/22/1686064768681/9a1978fc185d_640_360.png" group-title="PERÚ",CONECTA2 TV
 go:BITEL17
 
-#EXTINF:-1 tvg-id="" tvg-name="TELE LIMA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687639950/81d12291ceee_640_360.png" group-title="#",TELE LIMA
+#EXTINF:-1 tvg-id="" tvg-name="TELE LIMA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/09/19/02/1726687639950/81d12291ceee_640_360.png" group-title="PERÚ",TELE LIMA
 go:BITEL16
 
-#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497196103/dd106731023a_640_360.jpg" group-title="#",BHTV
+#EXTINF:-1 tvg-id="" tvg-name="BHTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497196103/dd106731023a_640_360.jpg" group-title="PERÚ",BHTV
 go:BITEL15
 
-#EXTINF:-1 tvg-id="" tvg-name="NATIVA TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/03/07/21/170982034755/ec43a73cb351_640_360.png" group-title="#",NATIVA TV
+#EXTINF:-1 tvg-id="" tvg-name="NATIVA TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/03/07/21/170982034755/ec43a73cb351_640_360.png" group-title="PERÚ",NATIVA TV
 go:BITEL13
 
-#EXTINF:-1 tvg-id="" tvg-name="FUNBOX PERÚ" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675974876113/58118c7fb03d_640_360.png" group-title="#",FUNBOX PERÚ
+#EXTINF:-1 tvg-id="" tvg-name="FUNBOX PERÚ" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675974876113/58118c7fb03d_640_360.png" group-title="PERÚ",FUNBOX PERÚ
 go:BITEL12
 
-#EXTINF:-1 tvg-id="" tvg-name="PBO" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/17/03/1721162066598/2b612543c6e6_640_360.jpg" group-title="#",PBO
+#EXTINF:-1 tvg-id="" tvg-name="PBO" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/17/03/1721162066598/2b612543c6e6_640_360.jpg" group-title="PERÚ",PBO
 go:BITEL06
 
 #EXTINF:-1 tvg-id="" tvg-name="A3 SERIES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYgtVgyOHWq3H3jdaK6coAvGjZwglv630QZlY_-dge6ySt7t4qtrBN7ffCWoFwmKANDLUOwzTYplshyphenhyphenrX037BoMVkdhkjl4_QJ998mgp56xZPUNtT355s9s1F9HHgvsI4U4DJ38d8tUX3jLrcpbG27AzPxIMzbghwloipzqJ6VO1ezcnSR-nKzhKvbdQ/s1600/A3-SERIES.jpg" group-title="#",A3 SERIES
