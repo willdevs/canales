@@ -1,6 +1,16 @@
 # CANALES
-#EXTINF:-1 tvg-id="" tvg-name="Capítulo 521 Emisión 04/11/2024" tvg-logo="https://e-tg.americatv.com.pe/al-fondo-hay-sitio-temporada-11-capitulo-521-emision-04112024-noticia-141273-165x100-371783.jpg" group-title="TEMPORADA 11",Capítulo 521 Emisión 04/11/2024
-go:EXCL01
 
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_640_360.jpg" group-title="#",L1MAX
 go:EXCL01
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE PREMIUM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmTHf2t4BZDQ9dE7tj5Fj8wpFDfoXqF7qGhYcESEQmrEVivXGRsddaevzk4jzdwVHz5V87-yKNB8pQsj__mrQ2po21gz-HnZqkBUfHQosi6qR8wMsWK4jCvDlknzFTBdmprNCVhyh-8SCI-SpfM8X7z1aTkTxOuDqxThaded74_IbrKWblt4x8mpayDw/s1600/CINE-PREMIUM.jpg" group-title="#",CINE PREMIUM
+go:PELI01
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE FAMILIAR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUufiA_pxLBmyiqK1fSc2aLoBhbEK7bzFgWkvcbpd4IJD4AXXQC8Wblq8fHpO-Zf5NFejwUWniAAm3kOqBv9C1-3vQOF1ofKt1fDLzdkP7i3EqySYzNAqMrjQS40t5fxSLTdLwZKG_WA5N6NpoQMuN4PntY0m_tMprHF_cfx-6e0FX8mVesHcBt_jlfw/s1600/CINE-FAMILIAR.jpg" group-title="#",CINE FAMILIAR
+go:PELI02
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCX8i-U1d4_qCDcI5yCZtnHB9vqvvF0sEuplVlUffVQLOesM4_zc4ENhKJFOQlUCQbSNxiUo0tmUQsjEUfWi7KmopLv7eFwdJCkM93FxtxmspVLhYoRGMBqT6dz9RZNa-AfNQLpEvQiwZceZZu2vIDkwaw7crwydGu6HWRUk3PUOOzqgt-BbScZhdi2w/s1600/CINE-HISPANO.jpg" group-title="#",CINE HISPANO
+go:PELI03
+
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAX1DIy-AI2VhG7jN_86B1riRFeTfv2a3kI_3M_ZyRksxHbliCsx_39g4dL9X3Decde8x1aVLyybCrC0SAWcJiL1xcROYKwhNWGIY9Ayh41TlAT1rg6_kHiJsFCkOW-LY6TmnM1HYry9Y1Nmcu2QofWwISdNWPfPu-iA_wAB8PkQjuiT0qGXoBe0hCQ/s1600/CINECANAL.jpg" group-title="#",CINECANAL
+go:PELI04
