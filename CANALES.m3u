@@ -10,7 +10,7 @@ go:ALFON
 go:BITEL07
 
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675975326951/18caf2f51ca8_640_360.png" group-title="PERÚ",PANAMERICANA
-go:BITEL0
+go:BITEL05
 
 #EXTINF:-1 tvg-id="" tvg-name="WILLAX" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/03/15/03/1678824634442/20878967cb96_640_360.png" group-title="PERÚ",WILLAX
 go:BITEL01
