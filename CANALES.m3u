@@ -9,6 +9,9 @@ go:ALFON
 #EXTINF:-1 tvg-id="" tvg-name="TVPERU" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675976398932/1c3cb9d0e0c4_640_360.png" group-title="PERÚ",TVPERU
 go:BITEL07
 
+#EXTINF:-1 tvg-id="" tvg-name="L1MAX (Activar)" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_640_360.jpg" group-title="DEPORTE",L1MAX (Activar)
+go:L1MAX
+
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675975326951/18caf2f51ca8_640_360.png" group-title="PERÚ",PANAMERICANA
 go:BITEL05
 
