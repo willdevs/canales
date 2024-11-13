@@ -12,6 +12,9 @@ go:BITEL07
 #EXTINF:-1 tvg-id="" tvg-name="L1MAX (Activar)" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/13/01/1720807505941/3a3466ec8bb6_640_360.jpg" group-title="DEPORTE",L1MAX (Activar)
 go:L1MAX
 
+#EXTINF:-1 tvg-id="" tvg-name="DSPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6sTVupm46m8lUks5Vi0LV37v6cRY4UCbRmBuV-OoVQYQ0eb_8hVVgghm2y2CCgTH7mXtnWX0neKMyv6r4U-M_n17HlBLZCmWKn7TVl3Q68Jqld6Et0dKbzwUw5_c5JjQ_M8xANLoHSzy0YQ00KqKZpoDdOwRvJV3Ao-CVwtgg9EevniWlOMAnvLOyUQ/s1600/DSports.jpg" group-title="#",DSPORTS
+go:W-FUT01
+
 #EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2023/02/10/03/1675975326951/18caf2f51ca8_640_360.png" group-title="PERÚ",PANAMERICANA
 go:BITEL05
 
@@ -83,9 +86,6 @@ go:PRIME24
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_2LRLdFP3w_T2VfexsB480OMl6TUOSQ2LBx0sm1PXwMbVy7-CNej6sz-RJHyQomU_oRzI6Ic1aTGNDNp0usk9MZ8jkz4MAwXV_SHKbKVHvrmPkab39WChQtFzG0ruIhYxPfWmLeFRN4Y95Hu4AExI0t88kSazfBcwEsgq84VTZ291WUauO2-C_j_CNw/s1600/SPACE.jpg" group-title="PELÍCULAS",SPACE
 go:PRIME23
-
-#EXTINF:-1 tvg-id="" tvg-name="DSPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6sTVupm46m8lUks5Vi0LV37v6cRY4UCbRmBuV-OoVQYQ0eb_8hVVgghm2y2CCgTH7mXtnWX0neKMyv6r4U-M_n17HlBLZCmWKn7TVl3Q68Jqld6Et0dKbzwUw5_c5JjQ_M8xANLoHSzy0YQ00KqKZpoDdOwRvJV3Ao-CVwtgg9EevniWlOMAnvLOyUQ/s1600/DSports.jpg" group-title="DEPORTE",DSPORTS
-go:EXCL03
 
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0xKUEP2w4-dmEq8HdBntzwHvbsfLcZj64DOit42qw_P9lLNLlwfm7-vDwVNxeowWdzhROx6xHRpr1APPFy4mQlHgL67XaNE3qR9J7zAtbn5fN_k4TzFhmLwyIT44mPyIFHT9Bpq4qn-sDuTqPgtlokIYBSbCCczumqTwSN6CGjk3eT5gpVzfk2JDYtQ/s1600/LOVE-NATURE.jpg" group-title="CULTURAL",LOVE NATURE
 go:CULT04
