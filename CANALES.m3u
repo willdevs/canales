@@ -1,7 +1,10 @@
 # CANALES
 
-#EXTINF:-1 tvg-id="" tvg-name="CINECLUB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTm0y0OPqy06kccYePSUIirIdHZvGCHfM_Z2PrFTposMeD43MXT_roR8zjV8V21LdyoIwVwC4WdilLBgwSAo_lB2VWCVL388JlR-qC8pgQzxXKVtQ7W4CwL9681go7TgbjkQQQF_RxMFC9gh6lRHWE1f07QVjcDoekgMPPrkf94tpPSXQ5FD0dbz7Q8Q/s1600/CineClub.jpg" group-title="PERÚ",CINECLUB
+#EXTINF:-1 tvg-id="" tvg-name="CINECLUB" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCwQ4I9YAQJJIH76xV7uTRdJgcEoCIwATsLjcfVVhoayS67EhYW7jRJLcy41e1BbFZr0ytsW0L4XrDfFmlXwTVchgcPQ_JxL8II4JP0kauU6HrtR0tYt2rJBxI7YwElp0rqGsAwKiVOt931Zo_qyBpln9OTvKI2SGUfAM5om5g4D5trLnM-1_K9GJ/s1600/8.jpg" group-title="PERÚ",CINECLUB
 go:KEFLIX
+
+#EXTINF:-1 tvg-id="" tvg-name="AGENDA DEPORTES" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWdNy6YNNeia9jeWHa1AkSg19D5yi1YjbSkxOQNOqAd9ts_UPSDZbb20CcoNHIaYVooxOQ9lmq8e8-QMoSBpP-ImHFspEvSlMctr5pKthA1jxCz3kKgpds-z6p0JiU_KK_HW7NmyySDbtfNlLJBMYd5TSqbo3maSchiux9Uz19JFrcS1g3hyi66vWA/s1600/Deportes.jpg" group-title="#",AGENDA DEPORTES
+go:C-FUTBOL
 
 #EXTINF:-1 tvg-id="" tvg-name="Al fondo hay sitio" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRZr_sE7OIEBTj7zdbnzIQN4vMrMPHTOcDXjNlFS3aHNsep6BpHEzfFJWSrVUzYWLhPHOC_WokI49e6dTDNI7nuAxaAJ_WM_txCiXs2xLK0Bv2EPmyMTpV1Ck3WdJkCjCDASXnP4fA6krdO_ON6afzUV-hUgHPgMUQtFafdppMTe8l7iqtX7aJnSviaw/s1600/AFHS.jpg" group-title="PERÚ",Al fondo hay sitio
 go:ALFON
