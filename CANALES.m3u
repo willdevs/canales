@@ -399,6 +399,8 @@ go:PELI03
 #EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAX1DIy-AI2VhG7jN_86B1riRFeTfv2a3kI_3M_ZyRksxHbliCsx_39g4dL9X3Decde8x1aVLyybCrC0SAWcJiL1xcROYKwhNWGIY9Ayh41TlAT1rg6_kHiJsFCkOW-LY6TmnM1HYry9Y1Nmcu2QofWwISdNWPfPu-iA_wAB8PkQjuiT0qGXoBe0hCQ/s1600/CINECANAL.jpg" group-title="PELÍCULAS",CINECANAL
 go:PELI04
 
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqBq0Er3b0pjVLwYdkUZ_M1P8Imo7OytXzmikquOpQgZbdSzoeV4qY-yoC6pSJ8dm3VMAQJzfan8ftgHspTmYaqbf6EXQVQnAjj9C78wtYZH28isRuiBe3LgXlfnJmEaUOfL456crvB7MR92mWzeCRiKUqqJVjpc8Nqggml9uuQ9dTof5oXRu87XJ/s1600/Telefe.png" group-title="VARIADOS",TELEFE
+INTER01
 
 #EXTINF:-1 tvg-id="" tvg-name="+18" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP5G5Yrhcw6bL1cIKijbL0-5I_hwq2cWEyqVmXdy6qQeTvwIHGHEvkUnEmEoFXqbB2c3776dE-DWLwNNs78stoa0MEZZ8FdaHZVNtEVgV43wdPCHFQ9kD4gjjtgYzu1tvPT-tPuFrHa2OHFXrGuSsDymWWpiQbrLXyWPPpz-YdgD0BdNvHLdRipoLEKw/s1600/+18.jpg" group-title="XXX",+18
 go:CODE
