@@ -36,6 +36,9 @@ go:BITEL11
 #EXTINF:-1 tvg-id="" tvg-name="ATV +" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/04/1723497854204/8ff5794d3f88_640_360.png" group-title="PERÚ",ATV +
 go:BITEL10
 
+#EXTINF:-1 tvg-id="" tvg-name="RPP" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-YGX0OQxDMLyztHsHrP0unmbLF1BQvGJZjbqAanY-qqCzNmg93kw0d00ZUf0rO1ezbXIHbEZqX_FTDOCdxd2A4JE2VcU4l8-VOMTrQcej_fajOr3JV663maSOuE_XjtETeh3oGm_i_ldmy6LfXFLPyvX2NOr2Y1vs2OpwzaR67KBpfs_WqvptA6c4kA/s1600/RPP.jpg" group-title="NOTICIAS",RPP
+go:CANAL02
+
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDX1P0Cl-ndYH-SUE1Kzvu1cDG62zsIZCDdX1JGtQxrR3qewbLGpCbwBJwe4W4-kKBqXLPpufAzaECJLFkGFFzoGoCdEm9yWzA9g8Fg6O-GRCbp8bKrkMshnTEsH8QDMGjqbqrLSx_GTsu-rxZLaTRjaeZ7R3GtY0_jUGmoyqUr8ph4nggQN1jG2kNrg/s1600/CANALN.jpg" group-title="NOTICIAS",CANAL N
 go:CANAL01
 
@@ -88,7 +91,10 @@ go:PRIME25
 go:PRIME24
 
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_2LRLdFP3w_T2VfexsB480OMl6TUOSQ2LBx0sm1PXwMbVy7-CNej6sz-RJHyQomU_oRzI6Ic1aTGNDNp0usk9MZ8jkz4MAwXV_SHKbKVHvrmPkab39WChQtFzG0ruIhYxPfWmLeFRN4Y95Hu4AExI0t88kSazfBcwEsgq84VTZ291WUauO2-C_j_CNw/s1600/SPACE.jpg" group-title="PELÍCULAS",SPACE
-go:PRIME23
+go:
+
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAX1DIy-AI2VhG7jN_86B1riRFeTfv2a3kI_3M_ZyRksxHbliCsx_39g4dL9X3Decde8x1aVLyybCrC0SAWcJiL1xcROYKwhNWGIY9Ayh41TlAT1rg6_kHiJsFCkOW-LY6TmnM1HYry9Y1Nmcu2QofWwISdNWPfPu-iA_wAB8PkQjuiT0qGXoBe0hCQ/s1600/CINECANAL.jpg" group-title="PELÍCULAS",CINECANAL
+go:PELI04
 
 #EXTINF:-1 tvg-id="" tvg-name="DSPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6sTVupm46m8lUks5Vi0LV37v6cRY4UCbRmBuV-OoVQYQ0eb_8hVVgghm2y2CCgTH7mXtnWX0neKMyv6r4U-M_n17HlBLZCmWKn7TVl3Q68Jqld6Et0dKbzwUw5_c5JjQ_M8xANLoHSzy0YQ00KqKZpoDdOwRvJV3Ao-CVwtgg9EevniWlOMAnvLOyUQ/s1600/DSports.jpg" group-title="DEPORTE",DSPORTS
 go:EXCL03
@@ -261,9 +267,6 @@ go:INTE13
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimVAYcfNKcj_5A7GIMOimIg632E-0-D305Dfcej7Txv5App02utFf9ndO13zf8s7qxK3FzF0QKPXJAwDeGvSpzwfxpO6vVSxGC_1EkCZbkDKhVJMR3mgwbR2I3G180v4ndMrRwkb4HH6MHmBLiBTZLUVikYuOXI4X0F11uQ4csZ5_fHqH2atATJg8gdA/s1600/FRANCE-24.jpg" group-title="NOTICIAS",FRANCE 24
 go:INTE12
 
-#EXTINF:-1 tvg-id="" tvg-name="HOUSE TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivw5S71ud0Xbs22FQ-06h1ulAIOslLwAiXGuOIioTKG-vGuN1st7UyQlr3cYr8sYLvZqLzIC-h2TaSoTasi2whfi_1QLtZZRx0xNNts6a0BCwLyJq_z4fD9ZoDYro7pKBqYI67KJ9d-wYcx4fWegIL5YsR3ZPCLq4jlyitefsydt0Z1694XG1kcB1f1w/s1600/HOUSE-TV.jpg" group-title="VARIADOS",HOUSE TV
-go:INTE11
-
 #EXTINF:-1 tvg-id="" tvg-name="UCT TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZQCbjx75uCNGu0E8yspWXZkWbnTqI3QD33UAxIHOkvuwHGBEPKXnvzgA5xKLYbLMkiNmnyxPRmpaG8T9Itn8_VLP3hSymvZaVXuIY4KkL4kxD6_mPGBD7f6EOR6bBPMNTdJ4o8fbXXBwrSBdNReGCWXkj4aODXFoSuj-zWNoKUvZ0vSpPbM7nEsr3nA/s1600/UCT-TV.jpg" group-title="VARIADOS",UCT TV
 go:INTE09
 
@@ -398,9 +401,6 @@ go:PELI02
 
 #EXTINF:-1 tvg-id="" tvg-name="CINE HISPANO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCX8i-U1d4_qCDcI5yCZtnHB9vqvvF0sEuplVlUffVQLOesM4_zc4ENhKJFOQlUCQbSNxiUo0tmUQsjEUfWi7KmopLv7eFwdJCkM93FxtxmspVLhYoRGMBqT6dz9RZNa-AfNQLpEvQiwZceZZu2vIDkwaw7crwydGu6HWRUk3PUOOzqgt-BbScZhdi2w/s1600/CINE-HISPANO.jpg" group-title="PELÍCULAS",CINE HISPANO
 go:PELI03
-
-#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAX1DIy-AI2VhG7jN_86B1riRFeTfv2a3kI_3M_ZyRksxHbliCsx_39g4dL9X3Decde8x1aVLyybCrC0SAWcJiL1xcROYKwhNWGIY9Ayh41TlAT1rg6_kHiJsFCkOW-LY6TmnM1HYry9Y1Nmcu2QofWwISdNWPfPu-iA_wAB8PkQjuiT0qGXoBe0hCQ/s1600/CINECANAL.jpg" group-title="PELÍCULAS",CINECANAL
-go:PELI04
 
 #EXTINF:-1 tvg-id="" tvg-name="TELEFE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqBq0Er3b0pjVLwYdkUZ_M1P8Imo7OytXzmikquOpQgZbdSzoeV4qY-yoC6pSJ8dm3VMAQJzfan8ftgHspTmYaqbf6EXQVQnAjj9C78wtYZH28isRuiBe3LgXlfnJmEaUOfL456crvB7MR92mWzeCRiKUqqJVjpc8Nqggml9uuQ9dTof5oXRu87XJ/s1600/Telefe.png" group-title="VARIADOS",TELEFE
 go:INTER01
