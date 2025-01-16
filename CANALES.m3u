@@ -39,6 +39,9 @@ go:CANAL02
 #EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDX1P0Cl-ndYH-SUE1Kzvu1cDG62zsIZCDdX1JGtQxrR3qewbLGpCbwBJwe4W4-kKBqXLPpufAzaECJLFkGFFzoGoCdEm9yWzA9g8Fg6O-GRCbp8bKrkMshnTEsH8QDMGjqbqrLSx_GTsu-rxZLaTRjaeZ7R3GtY0_jUGmoyqUr8ph4nggQN1jG2kNrg/s1600/CANALN.jpg" group-title="NOTICIAS",CANAL N
 go:CANAL01
 
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 1" tvg-logo="https://res.cloudinary.com/dd26zkd0f/image/upload/v1737054975/antena1_ojxqeg.jpg" group-title="VARIADOS",ANTENA 1
+go:PUNO1
+
 #EXTINF:-1 tvg-id="" tvg-name="ANIME ONEGAI" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/08/13/23/1723566026507/5ebdbdb3f8fa_640_360.png" group-title="INFANTIL",ANIME ONEGAI
 go:BITEL09
 
@@ -335,3 +338,4 @@ go:CODE
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL TEST" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxmPccl4Si9NBY1qi99LmOP-7AP1uH6_5sFOIR4_6Vf5trbS6mK6bDEbSEU-dkXJRI_sx06Rxa8MwIoGYT5hR7xRerVQXvkyDUbCaJXotwa_2Qx66PHhfY5izF_okcRdJomq9x-2S6owzGiCYJ9UDJvS3ifhqsafso0WKG4SCacSf6yQsitrq6W0-ZNg/s1600/TEST.jpg" group-title="#",CANAL TEST
 go:C-FUTBOL
+
